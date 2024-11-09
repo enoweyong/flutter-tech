@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "john.cpp",
+			"path": "../../../New folder/john.cpp"
+		}
+	],
+	"settings": {}
+}
